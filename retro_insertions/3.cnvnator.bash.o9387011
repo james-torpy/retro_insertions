@@ -1,0 +1,22 @@
+cnvnator -genome hg19 -root /g/data1a/ku3/jt3341/projects/hgsoc_repeats/genome/results/cnvnator/AOCS-076-1-3.out.root -chrom chr22 -tree /g/data1a/ku3/jt3341/projects/hgsoc_repeats/genome/results/bwa//g/data1a/ku3/jt3341//projects/hgsoc_repeats/genome//results//bwa//AOCS-076-1-3.bam
+Parsing file /g/data1a/ku3/jt3341/projects/hgsoc_repeats/genome/results/bwa//g/data1a/ku3/jt3341//projects/hgsoc_repeats/genome//results//bwa//AOCS-076-1-3.bam ...
+No chromosome/contig description given.
+Using GRCh37 as reference genome.
+Allocating memory ...
+Done.
+Filling and saving tree for 'chr22' ...
+Writing histograms ... 
+Total of 0 reads were placed.
+
+======================================================================================
+                  Resource Usage on 2018-08-22 17:20:49:
+   Job Id:             9387011.r-man2
+   Project:            ku3
+   Exit Status:        0
+   Service Units:      0.00
+   NCPUs Requested:    1                      NCPUs Used: 1               
+                                           CPU Time Used: 00:00:05                                   
+   Memory Requested:   32.0GB                Memory Used: 0B              
+   Walltime requested: 12:00:00            Walltime Used: 00:00:10        
+   JobFS requested:    100.0MB                JobFS used: 0B              
+======================================================================================
